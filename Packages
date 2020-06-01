@@ -1,0 +1,15 @@
+Package: com.eggsahara.nookphone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Haithem
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs/com.eggsahara.nookphone.deb
+Size: 41568
+MD5sum: 03688eed27c0084aa634671654ed31bf
+SHA1: 79acd9f35535f41ead9501cf99856a1a8dd87471
+SHA256: 5f06878793dc1c17900c3c317a9f3bea55ceeeb8387c587d06eb0c9e633ab6aa
+Section: Themes
+Description: A theme inspired from the Animal Crossing Nook Phone
+Author: Egg and Sahara
+Name: Nook Phone
+
